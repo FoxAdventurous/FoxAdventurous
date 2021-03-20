@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Max
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently studying to be a system administrator and web development
